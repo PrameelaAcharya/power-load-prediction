@@ -17,9 +17,8 @@ power_load_prediction/
 ├── notebooks/
 │   └── power_load_type_prediction.ipynb
 ├── reports/
-│   └── results_summary.md
-└── src/
-    └── README.md
+    └── results_summary.md
+
 ```
 
 ## Run the notebook
